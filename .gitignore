@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+/riskapp/settings/dev.py
 .Python
 env/
 build/
